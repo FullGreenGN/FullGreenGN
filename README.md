@@ -13,10 +13,10 @@
   -----------------
   Name: FullGreen
   OS: Vitunix x86_64
-  Languages: ["HTML", "CSS", "JS", "TS", "Bash", "Java"]
-  Intrests: ["CyberSecurity", "Linux", "Hardcore Music"]
+  Languages: ["TS", "JAVA", "SHELL", "C++", "LUA", "CSS"]
+  Intrests: ["PowerLifting", "Linux", "Hardcore Music"]
   Language: ["FR_FR", "EN_US"]  
-  Uptime: 18 Years
+  Uptime: 19 Years
   ```
 </div>
 
