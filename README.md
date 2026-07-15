@@ -1,38 +1,25 @@
+<div align="center">
 
+# FullGreen
 
-```css
-┌[fullgreen@git]-(~)
-└> mefetch
-```
- 
+Systems, networks & infrastructure. Building things that stay up.
 
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+<br>
 
-  ```css
-  fullgreen@GitHub
-  -----------------
-  Name: FullGreen
-  OS: Vitunix x86_64
-  Languages: ["TS", "JAVA", "SHELL", "C++", "LUA", "CSS"]
-  Intrests: ["PowerLifting", "Linux", "Hardcore Music"]
-  Language: ["FR_FR", "EN_US"]  
-  Uptime: 19 Years
-  ```
+**[PolarisDEV](https://polarisdev.fr)** — personal infrastructure project
+**ShotEat** — SaaS platform for restaurant ordering & live event streaming
+
+<br>
+
+`TypeScript` `Java` `Shell` `C++` `Lua`
+
+<br>
+
+[Website](https://polarisdev.fr) · [Instagram](https://www.instagram.com/fyllgreen.sprtn/) · [Discord](https://discordapp.com/users/216936486875037699)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=FullGreenGN&show_icons=true&hide_border=true&theme=default&hide_title=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullGreenGN&layout=compact&hide_border=true&theme=default&hide_title=true" height="150" alt="languages graph" />
+
 </div>
-
-
-
-<br />
-<p align="center">
-  <samp>
-    $ <a href="https://polarisdev.fr" target="_blank">website</a> .
-    <a href="https://www.instagram.com/fyllgreen.sprtn/" target="_blank">instagram</a> .
-    <a href="https://discordapp.com/users/216936486875037699" target="_blank">discord</a> .
-  </samp>
-</p>
-
-
-
-
-
-
