@@ -33,10 +33,8 @@
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=FullGreenGN&show_icons=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=4EAA25&title_color=4EAA25" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullGreenGN&layout=compact&hide_border=true&bg_color=00000000&text_color=888888&title_color=4EAA25" height="160" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FullGreenGN&hide_border=true&background=00000000&ring=4EAA25&fire=4EAA25&currStreakLabel=4EAA25" height="160" alt="Streak" />
+<img src="https://github-stats-extended.vercel.app/api?username=FullGreenGN&include_all_commits=true" height="160" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullGreenFR&langs_count=4" height="160" alt="Top languages" />
 
 <br>
 
