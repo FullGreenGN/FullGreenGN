@@ -34,7 +34,7 @@
 ## 📊 Stats
 
 <img src="https://github-stats-extended.vercel.app/api?username=FullGreenGN&include_all_commits=true" height="160" alt="GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullGreenFR&langs_count=4" height="160" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=FullGreenGN&langs_count=4" height="160" alt="Top languages" />
 
 <br>
 
