@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-**[PolarisDEV](https://polarisdev.fr)** — personal infrastructure project, self-hosted services on Proxmox
+**[PolarisDEV](https://polarisdev.fr)** — personal infrastructure project, self-hosted services on Proxmox <br>
 **ShotEat** — SaaS platform for restaurant ordering & live streaming at events and festivals
 
 <br>
