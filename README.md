@@ -4,13 +4,13 @@
 
 **Systems, networks & infrastructure — building things that stay up.**
 
-🇫🇷 Based in France · Studying sysadmin, networks & cybersecurity
+🇫🇷 Based in France · BTS CIEL IR · Pursuing Bachelor ASRC (Sysadmin, Networks & Cybersecurity)
 
 <br>
 
 ## 🚀 Projects
 
-**[PolarisDEV](https://polarisdev.fr)** — personal infrastructure project, self-hosted services on Proxmox <br>
+**[PolarisDEV](https://polarisdev.fr)** — Systeme Administration & Full Stack Dev Agency<br>
 **ShotEat** — SaaS platform for restaurant ordering & live streaming at events and festivals
 
 <br>
@@ -23,11 +23,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![NetBox](https://img.shields.io/badge/NetBox-0096D6?style=for-the-badge&logo=netbox&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 <br>
 
